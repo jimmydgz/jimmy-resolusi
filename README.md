@@ -1,0 +1,2 @@
+# jimmy-resolusi
+Repositry Planning
